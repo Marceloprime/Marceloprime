@@ -1,15 +1,3 @@
-<div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/Marceloprime/Marceloprime/blob/master/gifs/Hi.gif" width="30px"></h2>
-</div>
-
-<div align="center" width="50">
-
-<img src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Welcome!" width="300"/>
-
-</div>
-
-<div align="center">
-
 Seja Bem Vindo. <br><br>
 
 - 🔭 I’m currently working on CNPq<br>
