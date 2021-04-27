@@ -1,13 +1,10 @@
 Seja Bem Vindo. <br><br>
 
 - 🔭 I’m currently working on CNPq<br>
-- 🌱 I’m currently learning Javascript/React Native<br><br>
 É aqui que transformo parte dos meu sonhos em realidade. <br>
 Ask me anything  <a href="mailto:marceloaugustodosreis@usp.br"><b>email</b></a> me.
 
 <i>Happy Coding!</i> 😊
-
-</div>
 
 <div align="center">
 
